@@ -1,4 +1,4 @@
-﻿using Data.Schemas;
+﻿using ItemGen.Sitecore.Data.Schemas;
 using ItemGen.Interfaces;
 using System;
 using System.Collections.Generic;

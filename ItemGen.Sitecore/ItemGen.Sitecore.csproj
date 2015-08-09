@@ -43,6 +43,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ItemGen.Sitecore.Data\ItemGen.Sitecore.Data.csproj">
+      <Project>{67525459-dbf1-4c7b-a5f6-d431ca921722}</Project>
+      <Name>ItemGen.Sitecore.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ItemGen\ItemGen.csproj">
       <Project>{c599f143-cffd-40fc-9a6f-5c7a69584221}</Project>
       <Name>ItemGen</Name>

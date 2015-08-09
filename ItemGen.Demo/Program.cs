@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ItemGen.Sitecore.Data.Schemas;
 using ItemGen.Demo.GenTools;
-using Data.Schemas;
 using ItemGen.Generators;
 using ItemGen.Interfaces;
 
