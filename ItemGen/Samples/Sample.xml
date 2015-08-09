@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<x:Templates xmlns:x="http://tempuri.org/Templates.xsd"
+                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                     xsi:schemaLocation="ItemGenSchema ..\Schemas\Templates.xsd" >
+
+    <x:Template Name="ImageText" Path="myPath\myDir\">
+      <x:TemplateFields>
+        <x:TemplateField Name="Text" Type="string" />
+        <x:TemplateField Name="Valid" Type="bool" />
+      </x:TemplateFields>
+    </x:Template>
+
+  
+</x:Templates>

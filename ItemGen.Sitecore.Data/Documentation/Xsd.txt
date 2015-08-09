@@ -1,0 +1,9 @@
+﻿Example of generating C# classes from xsd files:
+
+Path = "C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\"
+
+cd C:\Projects\ItemGen\ItemGen.Sitecore.Data\Schemas
+
+xsd Items.xsd /c /n:ItemGen.Sitecore.Data.Schemas
+
+xsd Templates.xsd /c /n:ItemGen.Sitecore.Data.Schemas
